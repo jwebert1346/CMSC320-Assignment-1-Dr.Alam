@@ -11,3 +11,9 @@ Answer: Data science could be applied to government transportation initiatives. 
 including accessibility for for those who would benefit from public transit, fuel consuption, commute times, etc. All of these factors need lots of data including
 housing, income, commute methods, traffic patterns, etc. On the large scale implementations of public transit that the government is investing in, there is a
 serious financial interest, and taxpayer interest, in optimized routes.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Knowledge of git for real world development experience. I hope to understand common ways big data is used and interpreted in order to understand what happens
+with big data in industry even if I can't always understand the nuances of how that data is managed. Ie I want to gain the skills to be able to consistently have
+a high level understanding of data across industries and companies by learning how to learn.
