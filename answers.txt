@@ -12,6 +12,12 @@ including accessibility for for those who would benefit from public transit, fue
 housing, income, commute methods, traffic patterns, etc. On the large scale implementations of public transit that the government is investing in, there is a
 serious financial interest, and taxpayer interest, in optimized routes.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines changes from two brances into a single commit that includes both of their content (or not, per user discretion) and maintains their unique
+history. Rebasing, alternatively, merges the history of the branches into a single, linear one. This is nicer for clarity and simplifies the branch structure of the
+lineage but can be more difficult to manage if history is lost/overwritten.
+
 Q4: What skills do you hope to improve during this course?
 
 Answer: Knowledge of git for real world development experience. I hope to understand common ways big data is used and interpreted in order to understand what happens
