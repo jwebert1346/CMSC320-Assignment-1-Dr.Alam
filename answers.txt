@@ -1,0 +1,7 @@
+Q1: Why might we consider using git?
+
+Answer: Allows for parallel development and remote access to files with easy sharing between users.
+Branches allow organized, isolated development enviornments.
+Remote access means files can be accessed on any system.
+Easy handling of merges and collisions.
+
